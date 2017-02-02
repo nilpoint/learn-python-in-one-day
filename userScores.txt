@@ -1,0 +1,8 @@
+Ann, 100
+Benny, 102
+Carol, 214
+Darren, 129
+John, 1011
+
+Mike, 5
+Tom, 3
